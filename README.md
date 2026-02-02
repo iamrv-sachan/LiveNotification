@@ -84,7 +84,3 @@ The app utilizes Zomato's signature color palette:
 ## 📝 License
 
 This project is for educational purposes, demonstrating upcoming Android features.
-
----
-
-Would you like me to generate a specific **GitHub Action** workflow file to help you automate builds for this project?
